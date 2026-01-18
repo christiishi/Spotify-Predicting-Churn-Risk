@@ -38,13 +38,11 @@ Key Features:
 
 # Key Insights
 **Premium Users**
-Three distinct premium user segments emerged:
 * The Wanderers: Relatively new premium users with lower engagement and weaker renewal intent, representing the highest churn risk
 * The Nighttime Loyalists: Highly context-driven users with strong renewal intent and consistent nighttime listening habits
 * The Everyday Groovers: Long-term, highly engaged users with the strongest retention and habitual usage patterns
 
 **Free Users**
-Three free-user segments were identified:
 * The Almost-Premiums: Highly engaged users with the strongest willingness to upgrade, representing the most promising conversion target
 * The Free-Tier Fanatics: Active users with no interest in upgrading despite high engagement
 * The Casual Dabblers: Low-engagement users with minimal upgrade intent
