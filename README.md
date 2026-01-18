@@ -73,12 +73,9 @@ Based on our analysis, we recommend the following actions:
 * Translated analytical insights into targeted, actionable recommendations for premium retention and free-user conversion strategies
 
 ## Contributors
+
 **Christie Shin**
-
 Shivani Vallamdas
-
 Gema Zhu
-
 Vishal Srivastava
-
 Shuai Zhao
