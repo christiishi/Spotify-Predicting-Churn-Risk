@@ -36,7 +36,7 @@ Key Features:
 * Calculated cluster-level feature averages and visualized them using heatmaps
 * Used PCA-based scatterplots to assess cluster separation and interpret behavioral differences
 
-# Key Insights
+## Key Insights
 **Premium Users**
 * The Wanderers: Relatively new premium users with lower engagement and weaker renewal intent, representing the highest churn risk
 * The Nighttime Loyalists: Highly context-driven users with strong renewal intent and consistent nighttime listening habits
