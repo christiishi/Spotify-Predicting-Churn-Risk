@@ -26,13 +26,13 @@ Key Features:
 ## Data Preparation
 * Ingested raw survey-style user data and standardized formatting (e.g., age and categorical fields)
 * Cleaned data by handling missing values and stripping extraneous whitespace
-* Transformed multi-value categorical fields by exploding user-level responses into context-level observations
+* Applied a split-and-explode transformation to multi-select variables to capture the full depth of user behavior
 * Segmented users by subscription plan (Free vs. Premium) to allow targeted clustering
 
 ## Modeling Approach
 * Applied K-Means clustering separately to free and premium user groups
 * Evaluated multiple cluster sizes using silhouette scores to determine optimal segmentation
-* Selected k = 3 clusters for both free and premium users, balancing cohesion and separation
+  * Selected k = 3 clusters for both free and premium users, balancing cohesion and separation
 * Calculated cluster-level feature averages and visualized them using heatmaps
 * Used PCA-based scatterplots to assess cluster separation and interpret behavioral differences
 
