@@ -74,7 +74,11 @@ Based on our analysis, we recommend the following actions:
 
 ## Contributors
 **Christie Shin**
+
 Shivani Vallamdas
+
 Gema Zhu
+
 Vishal Srivastava
+
 Shuai Zhao
